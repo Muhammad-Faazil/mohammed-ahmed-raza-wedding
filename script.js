@@ -53,7 +53,7 @@ let isMuted = false;
 
 function initAudio() {
   if (!audio) {
-    audio = new Audio('assests/audio/music.mpeg');
+    audio = new Audio('assests/audio/music_tVoSTrZy.mp3');
     audio.loop = true;
     audio.volume = 0.5;
 
